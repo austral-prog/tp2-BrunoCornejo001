@@ -4,5 +4,5 @@ def earth():
 
     z = x < y
     w = y < x
-    print(f"The result of {X} comes first in the dictionary than {Y} is {z}.")
-    print(f"The result of {Y} comes first in the dictionary than {X} is {w}.")
+    print(f"The result of {x} comes first in the dictionary than {y} is {z}.")
+    print(f"The result of {y} comes first in the dictionary than {x} is {w}.")
